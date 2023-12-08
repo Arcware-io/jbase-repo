@@ -1,0 +1,4 @@
+#Fri Dec 08 22:02:49 CET 2023
+artifact.repository.factory.order=artifacts.xml.xz,artifacts.xml,\!
+metadata.repository.factory.order=content.xml.xz,content.xml,\!
+version=1
